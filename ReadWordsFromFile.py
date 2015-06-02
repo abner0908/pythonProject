@@ -17,4 +17,4 @@ for word in f.read():
 words.append("!!")
   
 for word in words:
-    print(word, end='')    
+    print(word)    
