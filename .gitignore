@@ -59,3 +59,10 @@ target/
 # eclipse
 .pydevproject
 .project
+
+# apple 
+.DS_Store
+
+
+#windows
+Thumbs.db
